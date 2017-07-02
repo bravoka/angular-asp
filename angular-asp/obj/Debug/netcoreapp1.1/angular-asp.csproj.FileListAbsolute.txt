@@ -1,0 +1,9 @@
+/Users/keyan/Desktop/Projects/angular-asp/angular-asp/bin/Debug/netcoreapp1.1/angular-asp.deps.json
+/Users/keyan/Desktop/Projects/angular-asp/angular-asp/bin/Debug/netcoreapp1.1/angular-asp.runtimeconfig.json
+/Users/keyan/Desktop/Projects/angular-asp/angular-asp/bin/Debug/netcoreapp1.1/angular-asp.runtimeconfig.dev.json
+/Users/keyan/Desktop/Projects/angular-asp/angular-asp/bin/Debug/netcoreapp1.1/angular-asp.dll
+/Users/keyan/Desktop/Projects/angular-asp/angular-asp/bin/Debug/netcoreapp1.1/angular-asp.pdb
+/Users/keyan/Desktop/Projects/angular-asp/angular-asp/obj/Debug/netcoreapp1.1/angular-asp.csprojResolveAssemblyReference.cache
+/Users/keyan/Desktop/Projects/angular-asp/angular-asp/obj/Debug/netcoreapp1.1/angular-asp.AssemblyInfo.cs
+/Users/keyan/Desktop/Projects/angular-asp/angular-asp/obj/Debug/netcoreapp1.1/angular-asp.dll
+/Users/keyan/Desktop/Projects/angular-asp/angular-asp/obj/Debug/netcoreapp1.1/angular-asp.pdb
