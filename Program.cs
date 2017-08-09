@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 
-namespace angular_asp
+namespace UnnamedGame
 {
     public class Program
     {
